@@ -2,6 +2,7 @@
 
 ### The fire festival
 
+- Takes place at New Year
 - Casting out spirits of the previous year
 - Seems pagan, is actaully just for tourists
 - Everybody gets **very** drunk
