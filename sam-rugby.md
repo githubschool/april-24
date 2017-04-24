@@ -11,4 +11,6 @@ The Merchants
 The Squiz
 Dirty Duck 
 Quigleys 
-
+Golden Lion
+Red Lion 
+White Lion
