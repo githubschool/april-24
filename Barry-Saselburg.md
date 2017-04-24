@@ -4,4 +4,4 @@
 Oil refinery
 
 ### Places to eat
-Don't know
+Biltong from biltong shops
