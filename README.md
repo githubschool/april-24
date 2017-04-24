@@ -3,11 +3,10 @@
 - Class Date: April 24-25, 2017
 - Facilitators:
   - @brianamarie :microphone:
-  - @brianamarie :speech_balloon:
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @brianamarie**.
+If you have a question, or need assistance during class, **please ask in Zoom, either on the microphone or in chat**.
 
 ## Give Us Feedback
 
